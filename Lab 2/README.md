@@ -23,8 +23,6 @@ The goal is to analyze sales-related features and use them to classify sales rec
 - **Target Variable:** The dataset includes a target variable used to classify sales records into predefined categories  
 - **Model Objective:** The model learns patterns from the sales data and predicts the correct class for each record based on its features  
 
-This step clearly defines what the model should learn and predict before implementation.
-
 ---
 
 ## Part 3: Loading and Inspecting the Dataset in Python
