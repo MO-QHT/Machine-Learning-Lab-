@@ -32,7 +32,7 @@ This step clearly defines what the model should learn and predict before impleme
 The Chocolate Sales dataset was loaded and inspected using Python and the Pandas library.  
 The dataset file was uploaded to the repository and then read in a Jupyter Notebook. Initial inspection included checking the dataset structure, previewing sample rows, and verifying column names and data types.
 
-**Uploaded File:** [Lab 2/Lab2_Part3.ipynb](Lab%202/Lab2_Part3.ipynb)
+**File Path:** 
 
 ---
 
@@ -41,7 +41,8 @@ The dataset file was uploaded to the repository and then read in a Jupyter Noteb
 A methodology diagram was created and uploaded to the repository to visually represent the complete machine learning workflow used in this lab.  
 The diagram illustrates dataset selection, data loading, data preprocessing, train/test split, model training, model evaluation, and results.
 
-**Uploaded File:** [Lab 2/Lab2_Part4.drawio.png](Lab%202/Lab2_Part4.drawio.png)
+**File Path:** [Open Methodology Diagram](Lab%202/Lab2_Part4.drawio.png)
+
 
 
 
