@@ -45,4 +45,4 @@ The model will learn patterns from behavioral and usage features and estimate st
 
 The dataset was uploaded to the repository and loaded using Python and the Pandas library.
 
-[Open Notebook](Lab2 Part3.ipynb)
+[Open Notebook](LLab2 Part3.ipynb)
