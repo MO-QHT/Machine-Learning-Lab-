@@ -14,8 +14,6 @@ The dataset contains 50,000 structured user records analyzing:
 - Stress levels  
 - Workplace productivity indicators  
 
-The dataset is clean, structured, and formatted for machine learning analysis.
-
 **Dataset Source:**  
 https://www.kaggle.com/datasets/amar5693/screen-time-sleep-and-stress-analysis-dataset
 
@@ -34,8 +32,6 @@ Regression
 ### Target Variable:
 Stress Level
 
-### Model Objective:
-The goal is to analyze smartphone usage, sleep behavior, and demographic features to predict an individual's stress level.
 
 The model will learn patterns from behavioral and usage features and estimate stress scores for unseen data.
 
@@ -43,6 +39,17 @@ The model will learn patterns from behavioral and usage features and estimate st
 
 ## Part 3: Loading and Inspecting the Dataset in Python
 
-The dataset was uploaded to the repository and loaded using Python and the Pandas library.
+A Jupyter Notebook was created to load and inspect the Screen Time, Sleep & Stress dataset using Python and the Pandas library.
 
-[Open Notebook](LLab2 Part3.ipynb)
+The dataset file was uploaded to the repository and read into the notebook for initial inspection.
+
+[Open Notebook](Lab2 Part3.ipynb)
+
+---
+
+A methodology diagram was created and uploaded to the repository to visually represent the complete machine learning workflow used in this lab.  
+The diagram illustrates dataset selection, data loading, data preprocessing, train/test split, model training, model evaluation, and results.
+
+[Open Methodology Diagram](Lab 2/Lab2_Part4.drawio.png)
+
+---
