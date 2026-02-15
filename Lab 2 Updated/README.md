@@ -50,6 +50,6 @@ The dataset file was uploaded to the repository and read into the notebook for i
 A methodology diagram was created and uploaded to the repository to visually represent the complete machine learning workflow used in this lab.  
 The diagram illustrates dataset selection, data loading, data preprocessing, train/test split, model training, model evaluation, and results.
 
-[Open Methodology Diagram](Lab_2/Lab2_Part4.drawio.png)
+[Open Methodology Diagram](Lab2_Part4_Up.drawio.png)
 
 ---
