@@ -45,11 +45,4 @@ The model will learn patterns from behavioral and usage features and estimate st
 
 The dataset was uploaded to the repository and loaded using Python and the Pandas library.
 
-```python
-import pandas as pd
-
-# Load dataset
-df = pd.read_csv("data/Smartphone_Usage_Productivity_Dataset_50000.csv")
-
-# Display first 5 rows
-df.head()
+[Open Notebook](Lab2 Part3.ipynb)
