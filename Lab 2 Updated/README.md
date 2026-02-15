@@ -43,7 +43,7 @@ A Jupyter Notebook was created to load and inspect the Screen Time, Sleep & Stre
 
 The dataset file was uploaded to the repository and read into the notebook for initial inspection.
 
-[Open Notebook](Lab2 Part3.ipynb)
+[Open Notebook](Lab2_Part3.ipynb)
 
 ---
 
