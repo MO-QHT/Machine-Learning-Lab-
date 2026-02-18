@@ -6,28 +6,38 @@ This lab applies the fundamental steps of a machine learning workflow, starting 
 
 ## Part 1: Choosing an Open Dataset
 
-An open dataset titled **Chocolate Sales** was selected for this lab.  
-The dataset contains structured sales data, making it suitable for machine learning analysis.
+An open dataset titled **KFC Global Sales Dataset (2018–2024)** was selected for this lab.
+
+The dataset contains structured business data including yearly and monthly sales performance across multiple countries and branches.
+It includes both numerical and categorical variables, making it suitable for machine learning analysis.
 
 **Dataset Source:**  
-https://www.kaggle.com/datasets/saidaminsaidaxmadov/chocolate-sales
+https://www.kaggle.com/datasets/usman44m/kfc-global-sales-dataset-20182024
 
 ---
 
 ## Part 2: Defining the Machine Learning Problem
 
-This project addresses a machine learning problem using the Chocolate Sales dataset.  
-The goal is to analyze sales-related features and use them to classify sales records into meaningful categories, helping to better understand sales performance patterns.
+This project addresses a machine learning problem using the **KFC Global Sales Dataset**.
+The goal is to analyze sales-related features and understand how factors such as marketing spend, customer count, country, and branch performance influence overall sales outcomes.
 
-- **Problem Type:** Classification problem  
-- **Target Variable:** The dataset includes a target variable used to classify sales records into predefined categories  
-- **Model Objective:** The model learns patterns from the sales data and predicts the correct class for each record based on its features  
+### Problem Type:
+Regression Problem
+
+### Target Variable:
+Sales
+
+### Model Objective:
+The objective of the model is to learn patterns from historical sales data and predict future sales performance based on input features such as marketing spend, customer count, and branch location.
+
+
+By understanding these relationships, the model can help evaluate the effectiveness of marketing strategies and business performance across different regions.
 
 ---
 
 ## Part 3: Loading and Inspecting the Dataset in Python
 
-The Chocolate Sales dataset was loaded and inspected using Python and the Pandas library.  
+The KFC Global Sales dataset was loaded and inspected using Python and the Pandas library.
 The dataset file was uploaded to the repository and then read in a Jupyter Notebook. Initial inspection included checking the dataset structure, previewing sample rows, and verifying column names and data types.
 
 [Open Notebook](Lab2_Part3.ipynb)
