@@ -1,60 +1,36 @@
-# Machine Learning Lab – Dataset Exploration & Methodology
+# Lab 2: Identifying ML Problems, Selecting Open Datasets, and Designing a Methodology Diagram
 
-This lab applies the fundamental steps of a machine learning workflow, starting from dataset selection and ending with the design of a complete methodology diagram.
+## Description of the Dataset
 
----
-
-## Part 1: Choosing an Open Dataset
-
-An open dataset titled **KFC Global Sales Dataset (2018–2024)** was selected for this lab.
-
-The dataset contains structured business data including yearly and monthly sales performance across multiple countries and branches.
-It includes both numerical and categorical variables, making it suitable for machine learning analysis.
-
-**Dataset Source:**  
-https://www.kaggle.com/datasets/usman44m/kfc-global-sales-dataset-20182024
+This lab uses a dataset focused on determining whether email messages are **Spam or Not Spam**.  
+Each entry in the dataset represents an individual email, along with features that help classify its content.  
+This dataset is appropriate for supervised machine learning tasks, where the model learns from labeled examples.
 
 ---
 
-## Part 2: Defining the Machine Learning Problem
+## Machine Learning Problem
 
-This project addresses a machine learning problem using the **KFC Global Sales Dataset**.
-The goal is to analyze sales-related features and understand how factors such as marketing spend, customer count, country, and branch performance influence overall sales outcomes.
+This is a **classification problem** because the objective is to assign each email to one of two categories:
 
-### Problem Type:
-Regression Problem
+- Spam  
+- Not Spam  
 
-### Target Variable:
-Sales
-
-### Model Objective:
-The objective of the model is to learn patterns from historical sales data and predict future sales performance based on input features such as marketing spend, customer count, and branch location.
-
-
-By understanding these relationships, the model can help evaluate the effectiveness of marketing strategies and business performance across different regions.
+The model will learn patterns from the input features to correctly classify emails into these categories.
 
 ---
 
-## Part 3: Loading and Inspecting the Dataset in Python
+## Overview
 
-The KFC Global Sales dataset was loaded and inspected using Python and the Pandas library.
-The dataset file was uploaded to the repository and then read in a Jupyter Notebook. Initial inspection included checking the dataset structure, previewing sample rows, and verifying column names and data types.
+The dataset was loaded and examined using Python and the Pandas library.  
+Basic inspection was performed to understand the dataset structure, including viewing sample records and checking column information.  
 
-[Open Notebook](Lab2_Part3.ipynb)
-
----
-
-## Part 4: Designing the Methodology Diagram
-
-A methodology diagram was created and uploaded to the repository to visually represent the complete machine learning workflow used in this lab.  
-The diagram illustrates dataset selection, data loading, data preprocessing, train/test split, model training, model evaluation, and results.
-
-[Open Methodology Diagram](Lab2_Part4.drawio.png)
+A methodology diagram was also created to illustrate the overall machine learning process, starting from data loading and ending with model evaluation.
 
 ---
 
+## Files in this Repository
 
-
-
-
-
+- `Spam_or_Not_Spam.ipynb` — Jupyter Notebook containing the implementation  
+- `Methodology_Diagram.png` — Visual representation of the machine learning workflow  
+- `Spam_or_Not_Spam.csv` — Dataset used in this lab  
+- `README.md` — Summary and explanation of the lab  
