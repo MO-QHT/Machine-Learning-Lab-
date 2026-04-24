@@ -9,3 +9,5 @@ The labs focus on understanding core machine learning concepts, data handling te
 Each lab is organized into its own folder and demonstrates practical implementation of machine learning concepts using real datasets and structured methodologies.
 
 The repository is intended for **educational and academic purposes**.
+
+📊 Dataset: [House Prices dataset](https://www.kaggle.com/datasets/lespin/house-prices-dataset)
