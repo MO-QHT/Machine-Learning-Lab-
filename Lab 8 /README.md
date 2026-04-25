@@ -2,6 +2,16 @@
 
 ---
 
+## Note
+
+The file `02_K_Nearest_Neighbors_Assignment.ipynb` could not be included in this repository due to a technical issue encountered on GitHub during the upload process.
+
+Therefore, it has been uploaded separately in another repository also named **Lab 8**.
+
+Please refer to that repository to access the full implementation of the KNN assignment.
+
+---
+
 ## Overview
 
 This lab focuses on applying the K-Nearest Neighbors (KNN) algorithm to a dataset in order to understand how distance-based classification works. The main goal is to study the importance of feature scaling and determine the best value for K to achieve good model performance.
